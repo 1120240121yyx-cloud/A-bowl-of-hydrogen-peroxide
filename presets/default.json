@@ -1,0 +1,16 @@
+{
+  "mode": "dim",
+  "base": 0.08,
+  "gain": 0.92,
+  "attack_ms": 6.0,
+  "decay_ms": 130.0,
+  "gamma": 0.95,
+  "max_dim": 0.96,
+  "palette": [
+    "#FF7A18",
+    "#FF3D00",
+    "#FFD166"
+  ],
+  "text": "看见声音",
+  "safety": "comfort"
+}
